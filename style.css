@@ -1,0 +1,48 @@
+body{
+    background-color: blueviolet;
+}
+
+a{
+    color: lightblue;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 20px;
+    background-color: grey;
+    border-radius: 5px;
+    font-size: larger;
+}
+h1{
+    border: 2px solid orange;
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+}
+a:focus{
+    color: red;
+}
+li{
+    list-style-type: none;
+    text-align: center;
+}
+a:hover{
+    color: orange;
+}
+#paragraf{
+    display: flex;
+    border: 1px solid red;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: 100px;
+    width: 300px;
+    height: 320px;
+    padding: 50px;
+    font-size: 29px;
+    font-weight: 900;
+
+}
+menu{
+    display: flex;
+    justify-content:space-evenly;
+
+}
